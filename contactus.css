@@ -1,0 +1,259 @@
+.nav-links {
+    list-style: none;
+    display: flex;
+    font-family: sans-serif;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links a {
+    color: #f1ebeb;
+    text-decoration: none;
+    font-size: 1em;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #FFD700;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-image: linear-gradient(to right, #9A54D6 , #AD74DE);
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.logo a {
+    color: #fff;
+    font-size: 1.8em;
+    font-weight: bold;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+}
+
+.logo a:hover {
+    transform: scale(1.1);
+}
+
+
+body {
+    background-color: #f9f9f9;
+    color: #333;
+    font-size: 16px;
+    background-image: linear-gradient(to right, #9A54D6 , #AD74DE);
+    margin: 0;
+    
+}
+
+.vision{
+
+    padding-top: 15spx;
+   font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+     color: #fff;
+     text-align: center;
+    }
+
+
+    .login_container{
+        background-color:rgb(217, 168, 226);
+        height:460px;
+        width: 350px;
+        margin-left:  35%;
+        margin-top:50px ;
+        border-radius: 5px;
+        padding-top: 5px;
+        padding-bottom: 60px;
+        padding-left: 50px;
+    }
+    .icon{
+        
+        display: inline;
+        margin-top: 50px;
+    
+    }
+    .pass_condition{
+        font-style: normal;
+        color: lightslategray;
+    }
+    .input{
+        height: 30px ;
+        width: 300px ;
+        border-radius: 5px;
+        border-color: rgb(172, 172, 172);
+    }
+    
+    .Login_button{
+        background: purple;
+        color: white;
+        padding-left:30px ;
+        padding-right: 30px;
+        padding-top: 5px;
+        padding-bottom:5px ;
+        margin-right: 20px;
+        border-radius: 5px;  
+    }
+    .Login_button:hover{
+    
+        background-color: rgb(69, 0, 69);
+    
+    }
+    .l_b_container{
+       text-align: center;
+       margin-top: 20px;
+    }
+    .fblogo{
+    background-color: white;
+    border-radius: 5px;
+    height: 35px;
+    width: 35px;
+
+    
+    }
+    .instalogo{
+        background-color:white;
+        border-radius: 5px;
+        height: 35px;
+    width: 35px;
+    }
+    .twiterlogo{
+        background-color: white;
+        border-radius: 5px;
+        height: 35px;
+    width: 35px;
+        
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .bottom_para{
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 20px;
+        font-weight: 50px;
+        color: #ffe2a9;
+    
+    }
+    
+    
+    
+    
+    .footer {
+        margin-top:100px;
+        background-color: #373232;
+        color: #fff;
+        font-family: Arial, sans-serif;
+        padding: 20px 0;
+      }
+      
+      .footer-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+      
+      .footer-section {
+        flex: 1 1 300px;
+        margin: 10px;
+      }
+      
+      .footer-section h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+      }
+      
+      .footer-section ul {
+        list-style: none;
+        padding: 0;
+      }
+      
+      .footer-section ul li {
+        margin: 5px 0;
+      }
+      
+      .footer-section ul li a {
+        text-decoration: none;
+        color: #fff;
+        transition: color 0.3s ease;
+      }
+      
+      .footer-section ul li a:hover {
+        color: #1e90ff;
+      }
+      
+      .footer-section p {
+        margin: 5px 0;
+      }
+      
+      .footer-bottom {
+        border-top: 1px solid #444;
+        text-align: center;
+        padding-top: 10px;
+        margin-top: 20px;
+      }
+      
+      .footer-bottom p {
+        margin: 0;
+      }
+      
+      .socials {
+        margin-top: 10px;
+      }
+      
+      .socials a {
+        margin: 0 10px;
+        display: inline-block;
+        width: 24px;
+        height: 24px;
+      }
+      
+      .socials a img {
+        width: 100%;
+        height: auto;
+      }
+      
+     
+      
+        .footer-section {
+          margin: 20px 0;
+        }
+
+
+
+        
+       
+        
